@@ -86,10 +86,18 @@ blog post about different database technologies!
 
 1. Good morning! What do you think of our new offices here?
 2. What is the difference between a deep and a shallow copy?
+    shallow copy is copying an instance object but share the same child data structure.
+    deep copy is creating a new instance object with a child memory data structure
+    
 3. What the heck are *args and **kwargs and when are they used?
+    *arg - non-fixed non-keyworded variable length argument list.
+    **kwargs - fixed keyword variable length argument 
+    
 4. How do data scientists work with backend engineers?
 5. Give an example of a time you would use a decision tree?
 6. How many golf balls would fit into a Boeing 747?
+   Fitting golf balls into plane, is a function of weight vs volume. Plot on graph with weight vs volume, it will be a positive linear line until it hits the maximum volume of 747 or maximum weight that 747 can lift off.
+   
 7. What was the most difficult task you’ve faced in your last job and how did you overcome it?
 8. If your manager asked you to do some task with data that you believed was unethical, how would you respond?
 
