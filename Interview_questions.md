@@ -106,6 +106,8 @@ blog post about different database technologies!
 2. What are the ML concepts covered at Lambda School?
 3. What is a lambda function in Python?
 4. What is ROC AUC?
+    it is ratio of true positive vs false positive. ROC 0.5 means the model can not decide or predict. ROC 1 means everything the model predicted, are correct. ROC 0 means every prediction made, are wrong. It is used to give reading to continued predictions.
+    
 5. What are sampling techniques and which ones have you used?
 6. Why is Python interpreted?
 7. What are the disadvantages of an interpreted language?
